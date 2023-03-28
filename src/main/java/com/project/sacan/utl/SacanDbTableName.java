@@ -19,7 +19,11 @@ public interface SacanDbTableName {
 	// SacanstudentBlog
 	String BLOG_ID = "blog_id";
 	String TITLE = "title";
+	String FILE_NAME = "file_name";
+	String STUDENT_BLOG_INFO ="student_blog_info";
 	String CONTENT = "content";
+	String DATA = "data";
+	String FILES = "files";
 	String IMAGE = "image";
 	String CREATED_AT = "created_at";
 	String UPLOADED_AT = "uploadedAt";
